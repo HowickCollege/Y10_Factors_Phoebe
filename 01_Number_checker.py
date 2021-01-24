@@ -1,5 +1,5 @@
 # Integer checking function
-
+# Learning to use Github
 # Number checking function goes here
 def intcheck(question, low=None, high=None):
 
